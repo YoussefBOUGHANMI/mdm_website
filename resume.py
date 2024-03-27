@@ -91,6 +91,17 @@ def resume():
     st.write('\n')
     st.subheader("Work History")
     st.write("---")
+    
+        # --- JOB 0
+    st.write("🚧", "**AI and Big Data Speaker | Ensitech | Guest Lecturer**")
+    st.write("01/2024 - Present")
+    st.write(
+        """
+    - ► Developed and implemented hands-on projects using Python, Hadoop, and Spark, enabling students to handle large datasets.
+    - ► Introduced machine learning and deep learning techniques with practical applications on real datasets.
+    - ► Promoted ethics in AI and raised awareness about the societal implications of Big Data technologies.
+    """
+    )
 
     # --- JOB 1
     st.write("🚧", "**Data Scientist | Crédit Agricole | Permanent contract**")
